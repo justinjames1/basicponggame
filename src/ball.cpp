@@ -5,5 +5,5 @@ int direction;
 int ball_angle;
 direction == TRUE; //move right
 if (direction==TRUE){BX++;}
-  if(direction==-1;){BX--;}
-} //initalize the pixels on the screen later.
+  if(direction==FALSE){BX--;}
+}
