@@ -1,3 +1,4 @@
+#include "ball.h"
 int main(){
 int BX=0;
 int BY=0;
