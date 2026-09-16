@@ -42,5 +42,5 @@ if (directionUD==0){BY++;}
 
 
 
-//goto processloop;
+goto processloop;
 }
